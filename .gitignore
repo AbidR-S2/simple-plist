@@ -1,6 +1,5 @@
 __tests__/write-test*
 package-lock.json
-dist
 
 .yarn/*
 !.yarn/cache
